@@ -1,5 +1,8 @@
 # Weather Dashboard
 
+![Screenshot 2023-06-02 155656](https://github.com/nwalk33/weather-dashboard/assets/124389890/e5ddbb96-b4c6-49b1-a43d-04cd9c1b6992)
+![Screenshot 2023-06-02 155626](https://github.com/nwalk33/weather-dashboard/assets/124389890/641a9028-c8de-4f40-b34a-3f1c615df9c6)
+
 ## Table of Contents 
 1. [Description](#description)
 5. [Usage](#usage)
