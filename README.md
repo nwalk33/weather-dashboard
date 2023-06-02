@@ -1,12 +1,11 @@
 # Weather Dashboard
 
 ## Table of Contents 
-1. [Description](#description)
-2. [Installation](#installation)
-5. [Usage](#usage)
-3. [Credits](#credits)
-4. [Links](#links)
-5. [Questions](#questions)
+[Description](#description)
+[Usage](#usage)
+[Credits](#credits)
+[Links](#links)
+[Questions](#questions)
 
 ## Description <a name="description"></a>
 This is a weather dashboard application that allows users to see the weather outlook for multiple cities. The application retrieves weather data from the 5 Day Weather Forecast API provided by OpenWeatherMap.
